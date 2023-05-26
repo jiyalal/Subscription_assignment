@@ -94,4 +94,4 @@ const loginvalidation = async function (req, res, next) {
   }
 };
 
-module.exports ={userRegistrationValidation,loginvalidation}
+module.exports = { userRegistrationValidation, loginvalidation };
